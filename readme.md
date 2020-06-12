@@ -1,14 +1,14 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# WTF Webpack Starter Kit - test
 
-Simple toolkit for your static websites development.
+Testowanie Webpack Starter Kit z WTF
 
-## How to use it?
+## Jak to odpalić?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+1. `npm install`.
 
-## Available scripts
+## A później:
 
 `npm run start` - runs development mode
 

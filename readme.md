@@ -1,4 +1,4 @@
-![cover](./gh/homepage.jpg)
+![cover](/gh/homepage.jpg)
 
 # WTF Webpack Starter Kit - test
 
